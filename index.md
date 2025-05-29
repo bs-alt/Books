@@ -1,5 +1,4 @@
 <link rel="stylesheet" href="assets/css/custom.css">
----
 layout: default
 title: 📚 Welcome to My Book World
 ---
