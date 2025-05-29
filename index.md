@@ -1,0 +1,30 @@
+---
+layout: default
+title: 📚 Welcome to My Book World
+---
+
+# 📚 Welcome to My Book World
+
+Hi there! This is the Book World 📖✨
+
+---
+
+## 🌟 Top Picks
+
+- *Atomic Habits* – James Clear
+- *The Book Thief* – Markus Zusak
+- *Sapiens* – Yuval Noah Harari
+- *Ikigai* – Francesc Miralles
+
+---
+
+## 🖼️ Book Covers
+
+![Book 1](https://covers.openlibrary.org/b/id/10523345-L.jpg)
+![Book 2](https://covers.openlibrary.org/b/id/10523339-L.jpg)
+
+---
+
+## 📥 Download Book List
+
+[Download PDF](booklist.pdf)
