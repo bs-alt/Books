@@ -3,11 +3,24 @@ layout: default
 title: 📚 My Book World
 ---
 
-# Welcome!
-
-Enjoy my reading journey 📖✨
-
-
 # 📚 Welcome to My Book World
 
-I love reading and sharing books! This site is for fellow bookworms 🐛📖
+Hello there! I'm a book lover who enjoys reading, reviewing, and collecting good books.
+
+---
+
+## 🌟 My Favorite Books
+
+- *Atomic Habits* – James Clear  
+- *Sapiens* – Yuval Noah Harari  
+- *The Book Thief* – Markus Zusak  
+
+---
+
+## 🖼️ Book Covers (Coming Soon)
+
+---
+
+## 📥 Download Book List
+
+Coming soon...
