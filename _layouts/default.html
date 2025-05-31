@@ -1,23 +1,32 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>{{ page.title }}</title>
-  <style>
-    body {
-      font-family: sans-serif;
-      max-width: 800px;
-      margin: auto;
-      padding: 2rem;
-      background: #f9f9f9;
-      color: #333;
-    }
-    h1 {
-      color: #0066cc;
-    }
-  </style>
-</head>
-<body>
-  {{ content }}
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <title>{{ page.title }}</title>
+    <style>
+      body {
+        font-family: 'Segoe UI', sans-serif;
+        max-width: 800px;
+        margin: auto;
+        padding: 2rem;
+        background: #fdf6e3;
+        color: #333;
+        line-height: 1.6;
+      }
+      h1 {
+        color: #2a7ae2;
+        border-bottom: 2px solid #ddd;
+        padding-bottom: 0.3em;
+      }
+      h2 {
+        color: #555;
+      }
+      a {
+        color: #2a7ae2;
+      }
+    </style>
+  </head>
+  <body>
+    {{ content }}
+  </body>
 </html>
