@@ -5,22 +5,17 @@ title: 📚 My Book World
 
 # 📚 Welcome to My Book World
 
-Hello there! I'm a book lover who enjoys reading, reviewing, and collecting good books.
+Explore my personal collection of handpicked books. Click any title below to read or download 📥
 
 ---
 
-## 🌟 My Favorite Books
+## 📥 Download My Books
 
-- *Atomic Habits* – James Clear  
-- *Sapiens* – Yuval Noah Harari  
-- *The Book Thief* – Markus Zusak  
-
----
-
-## 🖼️ Book Covers (Coming Soon)
-
----
-
-## 📥 Download Book List
-
-Coming soon...
+- [📘 Aquinas and the Market](Aquinas%20and%20the%20Market.pdf)
+- [📗 Bluest Eye](Bluest%20eye.pdf)
+- [📕 Denaturalized](Denaturalized.pdf)
+- [📙 Eleanor of Aquitaine](Eleanor%20of%20Aquitaine%20.pdf)
+- [📘 Playing Possum](Playing%20Possum.pdf)
+- [📗 Propaganda Girls](Propaganda%20Girls.pdf)
+- [📕 Sense, Nonsense, and Subjectivity](Sense,%20Nonsense,%20and%20Subjectivity.pdf)
+- [📘 That Librarian](That%20Librarian%20.pdf)
