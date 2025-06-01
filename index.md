@@ -11,7 +11,11 @@ Explore my personal collection of handpicked books. Click any title below to rea
 
 ## 📥 Download My Books
 
-- [📘 Aquinas and the Market](Aquinas%20and%20the%20Market.pdf)
+## 📘 Aquinas and the Market
+
+![Aquinas Cover](aquinas-cover.jpg)
+
+[📥 Download the Book (PDF)](Aquinas%20and%20the%20Market.pdf)
 ## 📗 The Bluest Eye
 
 ![Bluest Eye Cover](https://covers.openlibrary.org/b/id/15076903-L.jpg)
