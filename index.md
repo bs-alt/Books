@@ -12,8 +12,11 @@ Explore my personal collection of handpicked books. Click any title below to rea
 ## 📥 Download My Books
 
 - [📘 Aquinas and the Market](Aquinas%20and%20the%20Market.pdf)
-- [📗 Bluest Eye](Bluest%20eye.pdf)
-https://covers.openlibrary.org/b/id/15076903-L.jpg
+## 📗 The Bluest Eye
+
+![Bluest Eye Cover](https://covers.openlibrary.org/b/id/15076903-L.jpg)
+
+[📥 Download the Book (PDF)](Bluest%20eye.pdf)
 - [📕 Denaturalized](Denaturalized.pdf)
 - [📙 Eleanor of Aquitaine](Eleanor%20of%20Aquitaine%20.pdf)
 - [📘 Playing Possum](Playing%20Possum.pdf)
